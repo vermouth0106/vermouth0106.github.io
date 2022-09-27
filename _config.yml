@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl"
   풀스택 개발을 공부하고 있는 취업준비생 안가엘의 블로그입니다.
 
 baseurl: # the subpath of the site
-url: https://vermouth0106.github.io/ # the base hostname & protocol for your site
+url: https://vermouth0106.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
 timezone:
