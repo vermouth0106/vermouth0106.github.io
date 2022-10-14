@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://vermouth0106.github.io/sitemap.xml
